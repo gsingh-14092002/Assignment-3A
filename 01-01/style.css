@@ -8,6 +8,7 @@ body {
 img {width: 150px;}
 
 .robot {
+  transform: translateX(300px);
 
 }
 
