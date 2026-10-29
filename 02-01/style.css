@@ -6,6 +6,7 @@ h2 {
   font-family: "Fira Sans", sans-serif;
   color: #DCF2B0;
   text-shadow: 3px 3px 0px #59C3C3;
+  animation-name: scaleIn;
 }
 
 @keyframes scaleIn {
