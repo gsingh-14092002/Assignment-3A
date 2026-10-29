@@ -48,3 +48,7 @@ body {
 
 img.cloud {width:150px;}
 .city img {width: 100%;}
+
+.sticker {
+  animation: rotate 10s linear infinite;
+}
