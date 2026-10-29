@@ -26,6 +26,6 @@ body {
 }
 
 .robot {
-  offset-rotate: auto;
+  offset-rotate: auto 45deg;
   animation: fly 9s cubic-bezier(0.42, 0, 0.58, 1) both;
 }
