@@ -7,6 +7,7 @@ h2 {
   color: #DCF2B0;
   text-shadow: 3px 3px 0px #59C3C3;
   animation-name: scaleIn;
+  animation-duration: 2s;
 }
 
 @keyframes scaleIn {
