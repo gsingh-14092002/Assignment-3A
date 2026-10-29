@@ -54,3 +54,7 @@ img.cloud {width:150px;}
   animation-play-state: paused;
 
 }
+
+.sticker:hover {
+  animation-play-state: running;
+}
