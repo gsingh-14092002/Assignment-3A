@@ -12,6 +12,11 @@ h1 {
   letter-spacing: .15em; 
 }
 
+@keyframes typing {
+  0% {
+    width: 0px;
+  }
+}
 
 @keyframes blinking {
   0%, 100% {
