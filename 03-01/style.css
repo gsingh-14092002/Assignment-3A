@@ -13,6 +13,11 @@
   0% {
     transform: translateX(-150px);
   }
+
+    100% {
+    transform: translateX(820px);
+  }
+
 }
 
 body {
