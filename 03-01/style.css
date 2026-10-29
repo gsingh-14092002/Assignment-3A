@@ -9,6 +9,11 @@
 
 
 /* Other styles  */
+@keyframes float {
+  0% {
+    transform: translateX(-150px);
+  }
+}
 
 body {
   margin:0;
