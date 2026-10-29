@@ -7,7 +7,7 @@
 }
 
 #outline {
- 
+ animation: fade 0.25s 0.4s linear both;
 } 
 
 
