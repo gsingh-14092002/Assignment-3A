@@ -9,8 +9,7 @@ body {
 
 .robot {
   .robot {
-  transform: rotateX(45deg);
-}
+transform: rotateX(45deg) rotateY(20deg);}
 
 }
 
