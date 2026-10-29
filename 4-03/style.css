@@ -1,4 +1,5 @@
 #heartfill {
+  transform-origin: 50% 50%;
   animation: beat 0.8s linear
   fade 0.25s reverse both;
 
