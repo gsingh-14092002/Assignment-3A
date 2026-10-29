@@ -8,7 +8,7 @@
   animation-name: move;
   animation-duration: 2s;
   animation-delay: 2s;
-  animation-fill-mode: forwards;
+  animation-fill-mode: both;
 }
 
 /*------ other styles ---*/
