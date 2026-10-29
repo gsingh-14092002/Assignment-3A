@@ -15,3 +15,9 @@ body {
   display: flex;
   justify-content: center; 
 }
+
+@keyframes fly {
+  0% {
+    offset-distance: 0%;
+  }
+}
