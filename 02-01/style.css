@@ -12,6 +12,10 @@ h2 {
   0% {
     transform: scale(0.2);
   }
+
+   85% {
+    transform: scale(1.1);
+  }
 }
 
 
