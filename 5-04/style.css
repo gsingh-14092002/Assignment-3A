@@ -11,3 +11,13 @@ body {
   justify-content: center;
   overflow: hidden;
 }
+
+@keyframes vars {
+  0% {
+    font-variation-settings:
+      "CASL" 1,
+      "CRSV" 1,
+      "wght" 300,
+      "slnt" 0;
+  }
+}
