@@ -27,7 +27,7 @@ span {
 
 span:nth-child(2) {
   margin-right:0.15em;
-  animation-delay: 0.2s;
+  animation-delay: 0.2s, 2.95s;
 }
 
 span:nth-child(3) {
