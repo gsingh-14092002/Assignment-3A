@@ -1,6 +1,7 @@
 h1 {
   font-family: 'Recursive', "Times New Roman";
   font-size: 10rem;
+  animation: vars 8s infinite linear;
 }
 
 body {
