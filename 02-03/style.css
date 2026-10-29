@@ -10,7 +10,7 @@
   animation-delay: 2s;
   animation-iteration-count: 3;
   animation-fill-mode: both;
-    animation-direction: alternate;
+    animation-direction: alternate-reverse;
 }
 
 /*------ other styles ---*/
