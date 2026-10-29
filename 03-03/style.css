@@ -8,6 +8,7 @@ h2 {
   transform-style: preserve-3d;
 }
 
+
 @keyframes flipUp {
   from {
     transform: rotateX(90deg);
@@ -16,6 +17,10 @@ h2 {
   to {
     transform: rotateX(0deg);
   }
+}
+
+span {
+  animation: flipUp 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
 }
 
 span:nth-child(2) {
